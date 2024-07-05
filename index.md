@@ -1,10 +1,11 @@
 +++
-title =  "Eat Raising Canes"
+title =  "Eating Raising Canes"
 description = "Raising canes is disgusting"
 author = "Justin Napolitano"
 tags = ["lifestyle","food"]
 images = ["images/feature-image.png"]
 draft = 'no'
+date = "2024-06-29"
 +++
 
 ## Why am I writing this
