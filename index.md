@@ -4,7 +4,7 @@ description = "Raising canes is disgusting"
 author = "Justin Napolitano"
 tags = ["lifestyle","food"]
 images = ["images/feature-image.png"]
-categories = ["Personal"]
+categories = ["reflection","food"]
 draft = 'no'
 date = "2024-06-29"
 +++
