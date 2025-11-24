@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - content structure
   - static site generator
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is a personal, candid food review written in markdown, focusing on personal reflection,
+  health, and content archiving rather than automation or technical tooling. The technical aspects
+  referenced are minimal and related mostly to static content presentation rather than software
+  development.
 ---
 
 # Technical Overview of the Raising Canes Repository
@@ -54,3 +61,4 @@ The repository addresses the problem of recording and sharing a detailed, itemiz
 ## Summary
 
 This repository exemplifies a minimalistic approach to content archiving using markdown. It is a straightforward, manual record of a subjective experience, with potential for expansion into a more structured publication format. The technical footprint is minimal, focusing on content rather than code or infrastructure.
+
