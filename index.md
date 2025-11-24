@@ -1,12 +1,26 @@
 ---
-slug: "github-raising-canes"
-title: "raising-canes"
-repo: "justin-napolitano/raising-canes"
-githubUrl: "https://github.com/justin-napolitano/raising-canes"
-generatedAt: "2025-11-23T09:31:40.165799Z"
-source: "github-auto"
+slug: github-raising-canes
+title: Technical Overview and Personal Review in Raising Canes Repository
+repo: justin-napolitano/raising-canes
+githubUrl: https://github.com/justin-napolitano/raising-canes
+generatedAt: '2025-11-23T09:31:40.165799Z'
+source: github-auto
+summary: >-
+  Analysis of a Raising Canes restaurant review repository focusing on content structure,
+  motivation, and technical considerations for static site use.
+tags:
+  - markdown
+  - static-site
+  - content-archiving
+  - technical-documentation
+  - personal-review
+seoPrimaryKeyword: raising canes repository
+seoSecondaryKeywords:
+  - personal review
+  - content structure
+  - static site generator
+seoOptimized: true
 ---
-
 
 # Technical Overview of the Raising Canes Repository
 
