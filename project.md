@@ -6,9 +6,7 @@ repo: justin-napolitano/raising-canes
 githubUrl: https://github.com/justin-napolitano/raising-canes
 generatedAt: '2025-11-24T21:36:08.959Z'
 source: github-auto
-summary: >-
-  A markdown-based personal narrative and critique of Raising Canes food quality
-  and menu items.
+summary: A markdown-based personal narrative and critique of Raising Canes food quality and menu items.
 tags:
   - markdown
   - food review
@@ -24,8 +22,8 @@ seoSecondaryKeywords:
   - static site generator
   - food quality assessment
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -79,3 +77,4 @@ raising-canes/
 ---
 
 *Note: The repository currently contains a single markdown file with no programming code or build process.*
+
